@@ -1,13 +1,11 @@
-import UseRef1 from './ReactParaIniciantes/UseRef1';
+import Product from './ReactParaIniciantes/Product';
 
 const App = () => {
   return (
     <div>
-      <UseRef1 />
+      <Product />
     </div>
   );
 };
 
 export default App;
-// chat
-//
