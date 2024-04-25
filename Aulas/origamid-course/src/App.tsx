@@ -1,9 +1,9 @@
-import Product from './ReactParaIniciantes/Product';
+import CustomHooks1 from './ReactParaIniciantes/CustomHooks1';
 
 const App = () => {
   return (
     <div>
-      <Product />
+      <CustomHooks1 />
     </div>
   );
 };
