@@ -1,9 +1,9 @@
-import CustomHooks1 from './ReactParaIniciantes/CustomHooks1';
+import Form from './ReactParaIniciantes/Formularios/Input2/Input2';
 
 const App = () => {
   return (
     <div>
-      <CustomHooks1 />
+      <Form />
     </div>
   );
 };
